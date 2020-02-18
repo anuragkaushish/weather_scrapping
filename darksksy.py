@@ -15,7 +15,7 @@ from sqlalchemy import create_engine
 
 ###DB ---read info
 host='abc'
-user='root'
+user='******'
 password='********'
 dbname='******'
 
